@@ -109,7 +109,7 @@ function buscar(id) {
         console.log(e)
             alert('Ocurrio un error:'+e.status);
     }finally{
-        console.log('cargando...')
+        console.log('cargando.....')
     }
 
  }
